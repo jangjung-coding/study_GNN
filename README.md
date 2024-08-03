@@ -3,4 +3,4 @@ Studying Graph Neural Network
 
 This Notebook treats the basic knowledge about Graph Neural Network
 
-Source : https://wikidocs.net/book/9106
+Ref : Stanford CS224W: Machine Learning with Graphs | 2021
